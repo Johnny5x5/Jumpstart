@@ -25,23 +25,23 @@
     #project_mainfolder
                 #("project_mainfolder_working_directory")
                 #("project_mainfolder_temp_dirctory")
+                #("project_mainfolder_cicd_dirctory")
                 #("project_mainfolder_working_dirctory")
                 #("project_mainfolder_working_dirctory")
                 #("project_mainfolder_working_dirctory")
                 #("project_mainfolder_working_dirctory")
                 #("project_mainfolder_working_dirctory")
-                #("project_mainfolder_working_dirctory")
-                #("project_mainfolder_working_dirctory")
+                #("project_mainfolder_log_dirctory")
     #("sub-project")
         #("project_mainfolder_working_directory")
                 #("project_subfolder_temp_dirctory")
+                #("project_subfolder_cicd_dirctory")
                 #("project_subfolder_working_dirctory")
                 #("project_subfolder_working_dirctory")
                 #("project_subfolder_working_dirctory")
                 #("project_subfolder_working_dirctory")
                 #("project_subfolder_working_dirctory")
-                #("project_subfolder_working_dirctory")
-                #("project_subfolder_working_dirctory")
+                #("project_subfolder_log_dirctory")
 
 
 #"("scale")"
@@ -52,17 +52,27 @@
     #weight-range;("100,000,000,000.000,000,000,000,000,000")
 #cost-to-run("")
 
-#bitcoin1.0
+#"("bitcoin1.0.0")"
 #("bitcoin2.0.0")
 #compute_scale
-#compute_power ("")
+    #compute_power ("")
     #compute_power_level_range "("1.00000000-20,000,000,000,000.00000000")"
 #cloud server logic
     #cloud server subengine
 #business logic
-    #business-logiic-subengine
-    #business server logic 
-    #business server logic sub-engines
+    #business-logic-subengine
+            
+        #business server logic sub-engines
+        
+            #business server logic 
+            
+#untied nation subengine 
+    #api
+    #apigateway
+    #
+#government subengine          
+    #government logic             
+            
 #debugging code dictionary and referance libary
 #sub-engine
     #sub-engine index ("impelment Dewey Decimal Classification System") https://insights.masterworks.com/finance/industry-vs-sector-whats-the-difference/
@@ -75,10 +85,11 @@
     #debug cog(s)
     
 #knowlegde_repository_global-subengine
-        #knowlegde_repository_global
+    #knowlegde_repository_global
         #knowlegde_repository_national
         #knowlegde_repository_ecosystem
-
+        #internet_archive
+        #wayback_machine
 
 #programming-lanuages
 
