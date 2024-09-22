@@ -1,0 +1,2 @@
+web installer goes here. use a api gateway on the backend. use redshift to do the service of cloud administration to the web downloader.
+the web install has its own folder 📂 and folder tree in this repo.
