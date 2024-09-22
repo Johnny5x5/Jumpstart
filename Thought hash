@@ -57,14 +57,19 @@
 #compute_scale
     #compute_power ("")
     #compute_power_level_range "("1.00000000-20,000,000,000,000.00000000")"
+    
 #cloud server logic
     #cloud server subengine
+        #global.cloud.server.logic.board.bus.py #("(global selector and provioning of compute resources. this is botha cloud selector and cloud bus logic selector as well as deceneterized compute selector and bus and also a distubuted compute seletor with bus logic.)")
+         
 #business logic
+
     #business-logic-subengine
-            
+               
         #business server logic sub-engines
+            #business model database and selector
         
-            #business server logic 
+                #business server logic 
             
 #untied nation subengine 
     #api
@@ -92,6 +97,11 @@
         #wayback_machine
 
 #programming-lanuages
+    #dictionary of known programming lanuagues.
+#planner-automation-bot-noai
+
+# resoure pool #("https://youtu.be/E2t821Ujb0k?si=lJAV7z62gynMYSWw,https://trigger.dev/,")
+
 
 print ("error code, ")
 
