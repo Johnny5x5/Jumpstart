@@ -47,6 +47,9 @@
 #"("scale")"
 #("time")
 #money
+#code-ruputation
+#soical-reputation
+    #weight-range;("100,000,000,000.000,000,000,000,000,000")
 #cost-to-run("")
 
 #bitcoin1.0
@@ -57,10 +60,12 @@
 #cloud server logic
     #cloud server subengine
 #business logic
-    #business server logic subengine
+    #business-logiic-subengine
+    #business server logic 
+    #business server logic sub-engines
 #debugging code dictionary and referance libary
-
-#sub-engine index ("impelment Dewey Decimal Classification System") https://insights.masterworks.com/finance/industry-vs-sector-whats-the-difference/
+#sub-engine
+    #sub-engine index ("impelment Dewey Decimal Classification System") https://insights.masterworks.com/finance/industry-vs-sector-whats-the-difference/
 
 
 #debug section
@@ -74,6 +79,10 @@
         #knowlegde_repository_national
         #knowlegde_repository_ecosystem
 
+
+#programming-lanuages
+
 print ("error code, ")
 
 print ("I like pizza")
+
