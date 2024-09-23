@@ -8,9 +8,9 @@
     #
 #sub function 
 #sub engine 
-    #subengine-url 
+    #sub.engine-url 
     #subengine api 
-    #subengine 
+    #sub engine 
 #dictionary 
 #api
 #api gateway
@@ -162,7 +162,7 @@
     #compute_power_level_range "("1.00000000-20,000,000,000,000.00000000")"
     
 #cloud server logic
-    #cloud server subengine
+    #cloud server sub engine
         #global.cloud.server.logic.board.bus.py #("(global selector and provisioning of compute resources. this is botha cloud selector and cloud bus logic selector as well as decentralized compute selector and bus and also a distributed compute selector with bus logic.)")
          
 #business logic
@@ -226,11 +226,11 @@
 # maritime laws
 
 #national laws 
-#untied nations laws
+#united nations laws
 
 
 #  features for the impaired and disabled folks
-    #("dictionarylist")  vision hearing
+    #("dictionary list")  vision hearing
     
 #gui
 #night mode
@@ -260,7 +260,7 @@
 #nation war tracker and sub engine
     #("")
 
-#weather holistic subengine
+#weather holistic sub engine
 
     #weather api 
     #weather api gateway
@@ -275,7 +275,7 @@
 #survivor bias - general trait   
     #survivor bias in computer science
     
-#world language subengine
+#world language sub engine
 
     #custom language translator
 #custom neronet for jumpstart
@@ -331,19 +331,19 @@
  
 
 
-programming languages knowledge database in existence, it's Wikipedia like. but the database can do API calls and data coordination calls when required by the end user. This is a sub engine.  this is a sub database in the knowledge database section of the codebase here, also put this under that knowledge database section as an organizational policy task point to do. 
+#programming languages knowledge database in existence, it's Wikipedia like. but the database can do API calls and data coordination calls when required by the end user. This is a sub engine.  this is a sub database in the knowledge database section of the codebase here, also put this under that knowledge database section as an organizational policy task point to do. 
 
 
 
 
 #self-preservation.general
-self-preservation.instinct.blank
-self-preservation.instinct.human
-self-preservation.instinct.animal
-self-preservation.instinct.code-base
-self-preservation.instinct.cloud-provider-all 
-self-preservation.instinct.cloud-provider-individual; 
-self-preservation.instinct. network;"((distributed dictionary list),("https dictionary list"),("dictionary list for peer-to-peer Network"),("hyper-converged new standard"), ("decentralized blockchain Network"),("project internet 2.0 project orientated operational vlans and project orientated operational darknets for both non-users and user space, segmented networks."))"
+    #self-preservation.instinct.blank
+    #self-preservation.instinct.human
+        #self-preservation.instinct.animal
+    #self-preservation.instinct.code-base
+    #self-preservation.instinct.cloud-provider-all 
+    #self-preservation.instinct.cloud-provider-individual; 
+    #self-preservation.instinct. network;"((distributed dictionary list),("https dictionary list"),("dictionary list for peer-to-peer Network"),("hyper-converged new standard"), ("decentralized blockchain Network"),("project internet 2.0 project orientated operational vlans and project orientated operational darknets for both non-users and user space, segmented networks."))"
 #morale meter for people and animals and Nations and individuals and groups. 
 
 print ("error code, ")
@@ -352,4 +352,18 @@ print ("I like pizza")
 
 
     
+
+
+#anti-ddos built in and outsourced mitigation architecture 
+# amazon shield 
+#
+#
+    
+print ("error code, ")
+
+print ("I like pizza")
+
+
+   
+
 
