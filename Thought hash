@@ -321,6 +321,13 @@
 #stress.compute  at scale
     
     
+#https://youtube.com/shorts/869rtyUlh1U?si=m4Ez9PMKH8mwdEgC player power ties and player progression to the personal character.
+
+
+#health bars. 
+       #Backend server and codebase health bars. back end exporting status of health bars via the api. use an apt gateway. 
+       #front end display of health bars with a UI/UX and API access to the front end GUI. use an API gateway.
+
     
 print ("error code, ")
 
