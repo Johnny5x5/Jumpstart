@@ -323,12 +323,15 @@
     
 #https://youtube.com/shorts/869rtyUlh1U?si=m4Ez9PMKH8mwdEgC player power ties and player progression to the personal character.
 
-
-#health bars. 
+#front end development 
+     #health bars. 
        #Backend server and codebase health bars. back end exporting status of health bars via the api. use an apt gateway. 
        #front end display of health bars with a UI/UX and API access to the front end GUI. use an API gateway.
 
-    
+ 
+
+
+programming languages knowledge database in existence, it's Wikipedia like. but the database can do API calls and data coordination calls when required to by end user. this is a sub engine.  this is a sub database in the knowledge database section of the codebase here, also put this under that knowledge database section as an organizational policy task point to do. 
 print ("error code, ")
 
 print ("I like pizza")
