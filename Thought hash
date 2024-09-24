@@ -312,6 +312,8 @@
 
 
 #recommendation engine and sub engine - general
+#recommenation engine for search engine
+#recommendation engine for adverisement for a future replace ment for google ads- this is going to end up being a hugh project and somehthing that will be having alot of sub engines within this project.
 #recommendation engine and sub engine - for jumpstart
 
 #search sub engine
@@ -334,7 +336,10 @@
        #Backend server and codebase health bars. back end exporting status of health bars via the api. use an apt gateway. 
        #front end display of health bars with a UI/UX and API access to the front end GUI. use an API gateway.
 
- 
+
+
+#The Phenomenon of r/unixporn
+https://www.youtube.com/watch?v=FhhyqkbtaR4
 
 
 #programming languages knowledge database in existence, it's Wikipedia like. but the database can do API calls and data coordination calls when required by the end user. This is a sub engine.  this is a sub database in the knowledge database section of the codebase here, also put this under that knowledge database section as an organizational policy task point to do. 
@@ -549,6 +554,13 @@ https://www.commerce.gov/about/policies/source-code
 marcoservices
 mircoserves
 hybrid architecture - this is both monnlithic and mircoservices together.   
+hybrid mirco services
+hybrid monoithic
+
+monoithic
+hybrid mirco services
+hybrid macro services. 
+
 
 define macroservices
 a seperset of macro services-- there is no name but it is an idea I have had from for a very long time.
