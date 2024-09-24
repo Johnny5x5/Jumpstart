@@ -553,6 +553,47 @@ hybrid architecture - this is both monnlithic and mircoservices together.
 define macroservices
 a seperset of macro services-- there is no name but it is an idea I have had from for a very long time.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+https://www.youtube.com/watch?v=gsJHzBTPG0Y
+Better Mountain Generators That Aren't Perlin Noise or Erosion
+https://github.com/pvigier/perlin-numpy
+
+
+
+
+
+#
+https://github.com/TagStudioDev/TagStudio
+
+
+
+# should I use nix as a package manager? 
+#nix
+#https://www.youtube.com/watch?v=5D3nUU1OVx8
+
 print ("error code, ")
 
 print ("I like pizza")
