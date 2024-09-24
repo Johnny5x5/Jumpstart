@@ -948,6 +948,7 @@ With the the same thing-"with a paid model I can independedly pay for the servic
 3d printer software to scale multiple warehouses in multiple locations in every country in the world. use Internet 2.0 and Internet 2.0 network, also make a subset network like a vlan to network isolate this major feature of a 3D printer and it's traffic and data packets from any potention danger 
 and any dangerous individuals or group at scale. 
 
+in the software The software knows how to spread out the workload for a large print, liken it to kubernetes.
 
 print ("error code, ")
 
